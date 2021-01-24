@@ -36,6 +36,9 @@ Index:
   
 NEXT CHAPTERS COMING SOON!
   
+  
 Juan Torres
+
 B.Eng in MechE @ University of the Andes, Bogotá
+
 2021
