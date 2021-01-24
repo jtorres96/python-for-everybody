@@ -2,6 +2,7 @@
 Solutions for the exercises in Dr. Severance's excellent introductory book to Python. Use these as a guide, but make sure to come up with your own solutions. You won't learn unless you practice!
 
 Index:
+
   Chapter 2:
   - Exercise 2.2
   - Exercise 2.3
@@ -37,8 +38,7 @@ Index:
 NEXT CHAPTERS COMING SOON!
   
   
-Juan Torres
-
-B.Eng in MechE @ University of the Andes, Bogotá
+  
+Juan Torres, B.Eng in MechE @ University of the Andes, Bogotá
 
 2021
